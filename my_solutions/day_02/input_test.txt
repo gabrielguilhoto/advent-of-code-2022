@@ -1,0 +1,11 @@
+A Y
+B X
+C Z
+:-> solution=15 <-:
+
+<===>
+
+A Y
+B X
+C Z
+:-> solution=12 <-:
