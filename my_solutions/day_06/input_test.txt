@@ -1,0 +1,47 @@
+mjqjpqmgbljsphdztnvjfqwrcgsmlb
+:-> solution=7 <-:
+
+<--->
+
+bvwbjplbgvbhsrlpgdmjqwftvncz
+:-> solution=5 <-:
+
+<--->
+
+nppdvjthqldpwncqszvftbrmjlhg
+:-> solution=6 <-:
+
+<--->
+
+nznrnfrfntjfmvfwmzdfjlvtqnbhcprsg
+:-> solution=10 <-:
+
+<--->
+
+zcfzfwzzqfrljwzlrfnpqdbhtmscgvjw
+:-> solution=11 <-:
+
+<===>
+
+mjqjpqmgbljsphdztnvjfqwrcgsmlb
+:-> solution=19 <-:
+
+<--->
+
+bvwbjplbgvbhsrlpgdmjqwftvncz
+:-> solution=23 <-:
+
+<--->
+
+nppdvjthqldpwncqszvftbrmjlhg
+:-> solution=23 <-:
+
+<--->
+
+nznrnfrfntjfmvfwmzdfjlvtqnbhcprsg
+:-> solution=29 <-:
+
+<--->
+
+zcfzfwzzqfrljwzlrfnpqdbhtmscgvjw
+:-> solution=26 <-:
